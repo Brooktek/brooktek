@@ -109,9 +109,10 @@ As **Bailiff** (Co-leader) at our startup, I focus on building technology that b
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="email:brookteklebrhan123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="mailto:brookteklebrhan123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-brookteklebrhan123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
   <a href="https://linkedin.com/in/brook-teklebrhan-687b11241">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
